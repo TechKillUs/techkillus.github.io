@@ -1,16 +1,16 @@
-- title: home
+- title: Home
   url: /
   external: false
 
-- title: archive
+- title: Blog
   url: /archive/
   external: false
 
-- title: about
+- title: Sobre mi
   url: /about/
   external: false # set true if you using external link, see below
 
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+# Example external link:
+ - title: github
+   url: https://github.com/techkillus
+   external: true
