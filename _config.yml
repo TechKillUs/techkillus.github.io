@@ -1,6 +1,6 @@
 # Site settings
 title: Tech Kill Us # site title
-description: >- # site description
+description: La tecnología nos está matando, nos está volviendo inútiles cómo piedras. Este blog es una red flag para aquel que la quiera, que no se diga que no avisamos. >- # site description
   .
 lang: es-ES # default lang
 timezone: Europe/Madrid # set your timezone
@@ -11,14 +11,14 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Mr. Roboto # author name
-  bio: >- # tell to the world
+  bio: Informático apasionado de la tecnología, sin una mínima esperanza por que el mundo aprenda a sacarle provecho como se merece en vez de combertirla en una herramienta anti empatía. Ahora, escupiendo mierda muy real. >- # tell to the world
     
-  username: # general username
-  github:   # github username
-  twitter:  # twitter username
+  username: Roboto-Chan # general username
+  github: https://github.com/techkillus # github username
+  twitter: # twitter username
   facebook: # facebook username
-  email:    # email adress
-  avatar:   # change with your own avatar
+  email: techkillus@proton.me # email adress
+  avatar: # change with your own avatar
 
 # URL settings
 url: "" #
