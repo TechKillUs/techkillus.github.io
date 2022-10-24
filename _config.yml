@@ -10,8 +10,8 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Mr. Roboto # author name
-  bio: Informático apasionado de la tecnología, sin una mínima esperanza por que el mundo aprenda a sacarle provecho como se merece en vez de combertirla en una herramienta anti empatía. Ahora, escupiendo mierda muy real. >- # tell to the world
+  name: Nobody # author name
+  bio: Informátic@ apasionad@ de la tecnología, sin una mínima esperanza por que el mundo aprenda a sacarle provecho como se merece en vez de combertirla en una herramienta anti empatía. >- # tell to the world
     
   username: Roboto-Chan # general username
   github: https://github.com/techkillus # github username
