@@ -22,7 +22,7 @@ Las redes sociales son un cancer, desde que Mark Zukhenber creo Facebook tras la
 
 Este es el gran secreto de las grandes compañias que venden millones de power balls o satisfayers, nos manejan a su antojo, creando contenido especialmente diseñado para mantener nuestra atención tras la pantalla. Saben que palabras usar para cada uno porque nos observan, saben que buscamos en internet, que páginas visitamos diariamente y gracias a sus esbirros, las cookies y el bigdata, nos han etiquetado por grupos que se reparten como hienas. La culpa no es totalmente suya, las personas tienen gran parte de culpa por dejarse llevar como polillas hacia la luz.
 
-Ahora toca hechar un vistazo a las estadísticas, no frunza el seño, no voy a amargarle con números y trozos de articulos copiados, pero si duda, tendrá los datos al final de este post.
+Ahora toca hechar un vistazo a las estadísticas, no frunza el ceño, no voy a amargarle con números y trozos de articulos copiados, pero si duda, tendrá los datos al final de este post. 
 
 ## Móviles, la mano del diablo
 Todo este elavorado plan, no podría ser posible sin una mano ejecutora y ahí es donde entran nuestros teléfonos móviles. Están especialmente diseñados para llamar nuestra atención, regular el brillo automáticamente y hacernos cómodo no querer despegarnos de ellos. Los llevamos a todas partes con nosotros y prefeririamos olvidarnos la llaves de casa antes que el móvil, al menos podemos esperar al cerrajero mirando vídeos de gatos, ¿verdad?...
